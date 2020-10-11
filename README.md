@@ -39,7 +39,7 @@ I don't use facebook, even I don't use my facebook personal.
 *Imagine being programmer and using snapchat*<br>
 No, I don't have snapchat
 ### Instagram
-[catnowblue.ro](https://instragram.com/catnowblue.ro)<br>
+[catnowblue.ro](https://instagram.com/catnowblue.ro)<br>
 I'm not active on Instagram, so please don't PM/DM me on that social media if you have question.
 ### Other
 I don't think if I have other social medias than above, so I say no.
