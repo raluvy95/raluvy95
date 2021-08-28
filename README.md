@@ -1,7 +1,7 @@
 ![](https://github.com/raluvy95/raluvy95/blob/master/logo.png)
 
 
-# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hello everyone, I am Raluvy95, known as CatNowBlue <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hello everyone! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
 <div align="center">
@@ -22,6 +22,7 @@ import { Europe } from './countries.js';
 
 const CatNowBlue = {
     nickname: "cute cat",
+    username: "raluvy95",
     favourite_lang: "JavaScript",
     likes: ["coding", "playing", "drawing"],
     skills: {
