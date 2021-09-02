@@ -44,5 +44,5 @@ const CatNowBlue = {
 }
 ```
 
-[![Raluvy95's GitHub stats](https://github-readme-stats.vercel.app/api?username=raluvy95&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raluvy95&theme=discord_old_blurple&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Raluvy95's GitHub stats](https://github-readme-stats.vercel.app/api?username=raluvy95&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raluvy95&theme=discord_old_blurple&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)<br>
 
