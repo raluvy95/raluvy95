@@ -12,6 +12,8 @@
 <a href="https://discord.gg/6GGu4ESvdB" target="_blank">
 <img src=https://img.shields.io/badge/discord-7289da.svg?&style=for-the-badge&logo=discord&logoColor=white alt="discord server" style="margin-bottom: 5px;" /></a> <a href="https://www.reddit.com/user/therealraluvy95" target="_blank">
 <img src=https://img.shields.io/badge/reddit-orange.svg?&style=for-the-badge&logo=reddit&logoColor=white alt="reddit" style="margin-bottom: 5px;" /></a>
+<a href="https://instagram.com/catnowblue.ro" target="_blank">
+   <img src="https://img.shields.io/badge/Instagram-pink.svg?&style=for-the-badge&logo=instagram&logoColor=black&alt=Instagram" style="margin-bottom: 5px;" /></a>
 <img src=https://visitor-badge.laobi.icu/badge?page_id=raluvy95.raluvy95 />
 </div>
 <br>
