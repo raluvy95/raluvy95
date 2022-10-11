@@ -25,19 +25,20 @@ import { Europe } from './countries.js';
 const CatNowBlue = {
     nickname: "cute cat",
     username: "raluvy95",
-    favourite_lang: "JavaScript",
+    favourite_lang: "TypeScript",
     likes: ["coding", "playing", "drawing"],
     skills: {
         // these are points. The maximium points is 10.
-        JavaScript: 8,
+        JavaScript: 9,
+        TypeScript: 9
         Python: 7,
         web: {
             HTML: 10,
-            CSS: 4,
+            CSS: 5,
             JS: 8
         },
         Java: 3,
-        Rust: 1
+        Rust: 0
     },
     age: 17,
     gender: Female,
