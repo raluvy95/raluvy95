@@ -30,7 +30,7 @@ const CatNowBlue = {
     skills: {
         // these are points. The maximium points is 10.
         JavaScript: 9,
-        TypeScript: 9
+        TypeScript: 9,
         Python: 7,
         web: {
             HTML: 10,
