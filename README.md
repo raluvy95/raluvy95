@@ -40,7 +40,7 @@ const CatNowBlue = {
         Java: 3,
         Rust: 0
     },
-    age: 17,
+    age: 18,
     gender: Female,
     country: Europe.Romania,
     job: null
