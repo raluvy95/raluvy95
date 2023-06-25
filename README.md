@@ -36,7 +36,10 @@ const CatNowBlue = {
             HTML: 10,
             CSS: 5
         },
+        Nim: 5,
+        Lua: 3,
         Java: 3,
+        ShellScript: 1,
         Rust: 0
     },
     age: 18,
