@@ -58,3 +58,5 @@ const CatNowBlue = {
 [![Raluvy95's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=raluvy95&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=raluvy95&layout=compact&langs_count=8&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=raluvy95&theme=dark)
+
+If you appreciate my works and want to support the software I create, feel free to donate on [Ko-fi](https://ko-fi.com/catnowblue)
