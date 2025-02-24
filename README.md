@@ -15,6 +15,7 @@
 <a href="https://instagram.com/catnowblue.ro" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-pink.svg?&style=for-the-badge&logo=instagram&logoColor=black&alt=Instagram" style="margin-bottom: 5px;" /></a>
 <img src=https://visitor-badge.laobi.icu/badge?page_id=raluvy95.raluvy95 />
+   <a href='https://ko-fi.com/T6T31B0T0X' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 <br>
 
