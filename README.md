@@ -5,17 +5,22 @@
 
 
 <div align="center">
-   <a href="https://www.github.com/raluvy95" target="_blank">
-<img src=https://img.shields.io/badge/follow%20me-black.svg?&style=for-the-badge&logo=github&logoColor=white alt="follow me" style="margin-bottom: 5px;" /></a>
+<a href="https://www.github.com/raluvy95" target="_blank">
+   <img src=https://img.shields.io/badge/follow%20me-black.svg?&style=for-the-badge&logo=github&logoColor=white alt="follow me" style="margin-bottom: 5px;" />
+</a>
 <a href="https://youtube.com/catnowblue" target="_blank">
-<img src=https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white alt="youtube channel" style="margin-bottom: 5px;" /></a>
+   <img src=https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white alt="youtube channel" style="margin-bottom: 5px;" />
+</a>
 <a href="https://discord.gg/6GGu4ESvdB" target="_blank">
-<img src=https://img.shields.io/badge/discord-7289da.svg?&style=for-the-badge&logo=discord&logoColor=white alt="discord server" style="margin-bottom: 5px;" /></a> <a href="https://www.reddit.com/user/therealraluvy95" target="_blank">
-<img src=https://img.shields.io/badge/reddit-orange.svg?&style=for-the-badge&logo=reddit&logoColor=white alt="reddit" style="margin-bottom: 5px;" /></a>
+   <img src=https://img.shields.io/badge/discord-7289da.svg?&style=for-the-badge&logo=discord&logoColor=white alt="discord server" style="margin-bottom: 5px;" />
+</a>
 <a href="https://instagram.com/catnowblue.ro" target="_blank">
-   <img src="https://img.shields.io/badge/Instagram-pink.svg?&style=for-the-badge&logo=instagram&logoColor=black&alt=Instagram" style="margin-bottom: 5px;" /></a>
+   <img src="https://img.shields.io/badge/Instagram-pink.svg?&style=for-the-badge&logo=instagram&logoColor=black&alt=Instagram" style="margin-bottom: 5px;" />
+</a>
 <img src=https://visitor-badge.laobi.icu/badge?page_id=raluvy95.raluvy95 />
-   <a href='https://ko-fi.com/T6T31B0T0X' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/T6T31B0T0X' target='_blank'>
+   <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+</a>
 </div>
 <br>
 
