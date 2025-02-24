@@ -11,7 +11,7 @@
 <a href="https://youtube.com/catnowblue" target="_blank">
    <img src=https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white alt="youtube channel" style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.gg/6GGu4ESvdB" target="_blank">
+<a href="https://discord.gg/BK57NZ8vTX" target="_blank">
    <img src=https://img.shields.io/badge/discord-7289da.svg?&style=for-the-badge&logo=discord&logoColor=white alt="discord server" style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/catnowblue.ro" target="_blank">
