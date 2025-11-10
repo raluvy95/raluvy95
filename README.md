@@ -59,4 +59,3 @@ const CatNowBlue = {
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=raluvy95&theme=dark)
 
-If you appreciate my works and want to support the software I create, feel free to donate on [Ko-fi](https://ko-fi.com/catnowblue)
