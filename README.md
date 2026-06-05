@@ -39,7 +39,6 @@ const CatNowBlue = {
         ShellScript: 1,
         Rust: 0
     },
-    age: 20,
     gender: Female,
     country: Europe.Romania,
     job: null
